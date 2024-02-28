@@ -1,7 +1,7 @@
 ## SNHU_CS230_Design_Journal
  _Southern New Hampshire University CS-230 Software Design Journal for client The Gaming Room_ 
 # The Gaming Room,  "Draw It or Lose It"
- _[Software Design Document](../CS-230-M7-Project_Three_Software_Design_CD.docx "Software Design Document")_ 
+ _[Software Design Document](../blob/main/CS-230-M7-Project_Three_Software_Design_CD.docx "Software Design Document")_ 
 
 * The Gaming Room was seeking developers to port their existing game, Draw It or Lose It, available on Android, as a web-based game to serve multiple platforms, where cross-platform compatibility for each of the three mainstream operating systems and browsers were tested, with an IOS app which was also developed. Specific requirements included:
   *	A game will have the ability to have one or more teams involved.
